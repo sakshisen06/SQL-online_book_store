@@ -1,7 +1,6 @@
-create database pizzahut;
+create database onlinebookstore;
 
-use pizzahut;
-
+use onlinebookstore;
 
 -- Basic Questions:
 
